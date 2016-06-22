@@ -14,3 +14,6 @@ if __name__=="__main__":
     car1.num = input("ナンバー：")#printf+scanfな書き方
     car1.gas = input("")#scanfの書き方
     car1.printdate()
+
+
+    
